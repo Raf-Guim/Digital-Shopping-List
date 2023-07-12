@@ -1,0 +1,5 @@
+node_modules
+myconect.session.sql
+script.sql
+
+./backend/node_modules
